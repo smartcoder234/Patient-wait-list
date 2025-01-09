@@ -15,3 +15,5 @@
 ## Views Required
 Summary Page
 Detailed Page
+
+![Screenshot 2025-01-09 153614](https://github.com/user-attachments/assets/7dea0aab-d2b5-47f8-aaa0-944762cd3e98)
